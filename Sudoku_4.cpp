@@ -1,5 +1,5 @@
 /* C++ program for Sudoku generator */
-// Part 3 : Filling Remaining Entries
+// Part 4 : Removing K Entries
 
 #include <bits/stdc++.h>
 using namespace std;
