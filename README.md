@@ -1,9 +1,17 @@
-# Vectors-And-Matrices
+# Vectors
 
-This repository introduces the concepts of Vectors and Matrices in Data Structures in C++ programming language.
+This Branch includes concepts based on the Vector Data Structures
 
-References :
+The inBuilt Functions are classified into :
 
-1 https://www.geeksforgeeks.org/vector-in-cpp-stl/
+1  Capacity
 
-2 https://www.go4expert.com/articles/array-vector-stack-data-structures-t27921/
+2  Iterators  
+
+3  Modifiers
+
+NOTE :
+
+.cpp Files have the executable code in them.
+
+.txt Files have the respective Function Descriptions and Sample Output for the code available.
