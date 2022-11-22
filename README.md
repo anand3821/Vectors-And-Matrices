@@ -25,3 +25,6 @@ Inbuilt Functions :
  
  -> Similar to \n Character, Jumps to newline
  
+ NOTE :
+ 
+ Sample Outputs will be available in .txt files for the program
