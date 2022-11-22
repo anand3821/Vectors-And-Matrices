@@ -1,5 +1,10 @@
 # Sudoku Generator Problem
 
+
+Generates to Sudoku Puzzle for Solving 
+
+Contains the Code in C++ and Java
+
 Inbuilt Functions :
 
 1  void* memset( void* str, int ch, size_t n);   
