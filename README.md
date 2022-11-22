@@ -1,9 +1,21 @@
-# Vectors-And-Matrices
+# Sudoku Generator Problem
 
-This repository introduces the concepts of Vectors and Matrices in Data Structures in C++ programming language.
+Inbuilt Functions :
 
-References :
+1  void* memset( void* str, int ch, size_t n);   
 
-1 https://www.geeksforgeeks.org/vector-in-cpp-stl/
+-> It copies a single character for a specified number of times to an object.
 
-2 https://www.go4expert.com/articles/array-vector-stack-data-structures-t27921/
+2  rand()
+  
+ -> rand() returns a pseudo-random number in the range of 0, RAND_MAX.
+ 
+ -> RAND_MAX: is a constant whose default value may vary between implementations but it is granted to be at least 32767.
+ 
+ 3  to_string(object)
+ 
+ -> The to_string() method takes a single integer variable or other data type and converts into the string.
+ 
+ 4  endl
+ 
+ -> Similar to \n Character, Jumps to newline
