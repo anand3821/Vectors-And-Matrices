@@ -1,0 +1,14 @@
+/* C++ program for Sudoku generator */
+// Part 1 : Generating a Base Matrix with all zero entries
+
+OUTPUT :
+
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
